@@ -35,10 +35,9 @@
 </td>
 <td>
     <a href="#" target="_blank"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-7bdff2?style=flat&logo=manjaro&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Intellij IDEA" src="https://img.shields.io/badge/intellij_idea-7bdff2?style=flat&logo=intellij-idea&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Todoist" src="https://img.shields.io/badge/todoist-7bdff2?style=flat&logo=todoist&logoColor=333533"></a>
-    <br />
     <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-7bdff2?style=flat&logo=github&logoColor=333533"></a>
+     <br />
     <a href="#" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-7bdff2?style=flat&logo=discord&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/spotify-7bdff2?style=flat&logo=spotify&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-7bdff2?style=flat&logo=git&logoColor=333533"></a>
