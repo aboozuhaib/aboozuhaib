@@ -58,8 +58,8 @@
  -->
 ---
 
-> '“If you don’t take risks, you can’t create a future!”
+> 'You Should Enjoy The Little Detours To The Fullest. Because That's Where You'll Find Things More Important Than What You Want.'
 
 <p align="right">
-    <a href="https://www.youtube.com/watch?v=Qssvnjj5Moo" target="_blank">-Monkey D. Luffy</a>
+    <a href="https://www.youtube.com/watch?v=Qssvnjj5Moo" target="_blank">-Hunter X Hunter</a>
 </p
