@@ -29,13 +29,13 @@
     <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/sql-b2f7ef??style=for-the-badge&logo=postgresql&logoColor=333533"></a>
     <br />
-    <a href="#" target="_blank"><img alt="C" src="https://img.shields.io/badge/-f7d6e0?style=flat&logo=c&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-f7d6e0?style=flat&logo=c&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/javascript-f7d6e0?style=flat&logo=javascript&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/css-f7d6e0?style=flat&logo=css3&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/html-f7d6e0?style=flat&logo=html5&logoColor=333533"></a>
 </td>
 <td>
-    <a href="#" target="_blank"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-7bdff2?style=flat&logo=manjaro&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="Pop!_OS" src="https://img.shields.io/badge/manjaro-7bdff2?style=flat&logo=manjaro&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Intellij IDEA" src="https://img.shields.io/badge/intellij_idea-7bdff2?style=flat&logo=intellij-idea&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Todoist" src="https://img.shields.io/badge/todoist-7bdff2?style=flat&logo=todoist&logoColor=333533"></a>
     <br />
