@@ -46,20 +46,20 @@
 </tbody>
 </table>
 
-<div align="center"><strong>.env</strong></div>
-<br />
-<div align="center">
+<!-- <div align="center"><strong>.env</strong></div>
+<br /> -->
+<!-- <div align="center">
   <a href="https://www.studioghibli.com.au/" target="_blank"><img alt="Studio gibli" src="https://img.shields.io/badge/Studio gibli-7bdf2?style=flat&logo=&logoColor=333533"></a>
   <a href="https://www.youtube.com/watch?v=NRorLcHt8Bw" target="_blank"><img alt="Studio gibli" src="https://img.shields.io/badge/Aurora-44d5f2?style=flat&logo=&logoColor=333533"></a>
   <a href="https://www.youtube.com/watch?v=wupToqz1e2g" target="_blank"><img alt="Studio gibli" src="https://img.shields.io/badge/the pale blue dot-f706e0?style=flat&logo=&logoColor=333533"></a>
   
 
 </div>
-
+ -->
 ---
 
-> 'Sometimes there's so much beauty in the world, I feel like I can't take it, and my heart is just going to cave in'
+> '“If you don’t take risks, you can’t create a future!”
 
 <p align="right">
-    <a href="https://www.youtube.com/watch?v=Qssvnjj5Moo" target="_blank">-American Beauty</a>
+    <a href="https://www.youtube.com/watch?v=Qssvnjj5Moo" target="_blank">-Monkey D. Luffy</a>
 </p
