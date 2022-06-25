@@ -58,7 +58,7 @@
  -->
 ---
 
-> 'You Should Enjoy The Little Detours To The Fullest. Because That's Where You'll Find Things More Important Than What You Want.'
+> 'You should enjoy the little detours to the fullest, because that's where you'll find things more important than what you want.'
 
 <p align="right">
     <a href="https://www.youtube.com/watch?v=Qssvnjj5Moo" target="_blank">-Hunter X Hunter</a>
