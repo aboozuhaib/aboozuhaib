@@ -34,7 +34,7 @@
     <a href="#" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/html-f7d6e0?style=flat&logo=html5&logoColor=333533"></a>
 </td>
 <td>
-    <a href="#" target="_blank"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-7bdff2?style=flat&logo=manjaro&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="PopOS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Todoist" src="https://img.shields.io/badge/todoist-7bdff2?style=flat&logo=todoist&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-7bdff2?style=flat&logo=github&logoColor=333533"></a>
      <br />
