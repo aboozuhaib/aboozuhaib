@@ -1,65 +1,113 @@
-## Hey guys, I’m Aboo Zuhaib 🐣 :)
+<h1 align="center">Hi, I'm Aboo Zuhaib Gasil C P</h1>
+<h3 align="center">Embedded Systems Engineer | Linux & IoT Enthusiast</h3>
 
-![aboozuhaib](https://img.shields.io/badge/aboo-zuhaib-%23000)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faboozuhaib%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aboozuhaib&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems-blue"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-orange"/>
+</p>
 
-<br />
-<div align="center"><strong>🔥</strong></div>
-<div align="center"><strong>social</strong></div>
-<br />
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/aboo-zuhaib-gasil-c-p-29a6a51b6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533"></a>
-    <a href="https://github.com/aboozuhaib/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533"></a>
-    <a href="https://instagram.com/_aboo_zuhaib_?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-b8bedd?style=flat&logo=instagram&logoColor=333533"></a>
-    <a href="mailto:aboozuhaibclt@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-b8bedd?style=flat&logo=gmail&logoColor=333533"></a>
-</div>
-<br />
-
-<table width="100%" cellspacing="0" cellpadding="0" align="center">
-<tbody>
-<tr>
-<td align="center"><strong>code in</strong></td>
-<td align="center"><strong>daily drivers</strong></td>
-</tr>
-<tr>
-<td>
-    <a href="#" target="_blank"><img alt="bash" src="https://img.shields.io/badge/bash-b2f7ef?style=flat&logo=linux&logoColor=383533"></a>
-    <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/sql-b2f7ef??style=for-the-badge&logo=postgresql&logoColor=333533"></a>
-    <br />
-    <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/javascript-f7d6e0?style=flat&logo=javascript&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/css-f7d6e0?style=flat&logo=css3&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/html-f7d6e0?style=flat&logo=html5&logoColor=333533"></a>
-</td>
-<td>
-    <a href="#" target="_blank"><img alt="PopOS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Todoist" src="https://img.shields.io/badge/todoist-7bdff2?style=flat&logo=todoist&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-7bdff2?style=flat&logo=github&logoColor=333533"></a>
-     <br />
-    <a href="#" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-7bdff2?style=flat&logo=discord&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/spotify-7bdff2?style=flat&logo=spotify&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-7bdff2?style=flat&logo=git&logoColor=333533"></a>
-</td>
-</tr>
-</tbody>
-</table>
-
-<!-- <div align="center"><strong>.env</strong></div>
-<br /> -->
-<!-- <div align="center">
-  <a href="https://www.studioghibli.com.au/" target="_blank"><img alt="Studio gibli" src="https://img.shields.io/badge/Studio gibli-7bdf2?style=flat&logo=&logoColor=333533"></a>
-  <a href="https://www.youtube.com/watch?v=NRorLcHt8Bw" target="_blank"><img alt="Studio gibli" src="https://img.shields.io/badge/Aurora-44d5f2?style=flat&logo=&logoColor=333533"></a>
-  <a href="https://www.youtube.com/watch?v=wupToqz1e2g" target="_blank"><img alt="Studio gibli" src="https://img.shields.io/badge/the pale blue dot-f706e0?style=flat&logo=&logoColor=333533"></a>
-  
-
-</div>
- -->
 ---
 
-> 'You should enjoy the little detours to the fullest, because that's where you'll find things more important than what you want.'
+## Professional Summary
+I work in the Embedded Systems domain with emphasis on Linux systems, low-level development, automation, and reliable communication design.  
+My engineering focus is on system-level problem solving, debugging, and building scalable embedded architectures.  
+I take a disciplined approach to software quality, performance, and maintainability.
 
-<p align="right">
-    <a href="https://www.youtube.com/watch?v=Qssvnjj5Moo" target="_blank">-Hunter X Hunter</a>
-</p
+---
+
+# 🧰 Technical Stack
+
+## Core Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,cmake,git,sqlite,linux,gdb" />
+</p>
+
+## Platforms & Concepts (Current Focus)
+<p align="left">
+  <img src="https://img.shields.io/badge/Yocto-000000?logo=yocto&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTOS-00599C?style=flat" />
+  <img src="https://img.shields.io/badge/MCUs-00979D?style=flat" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=flat" />
+</p>
+
+---
+
+# 🏗️ Detailed Tech Capabilities
+
+### Embedded Development
+- C / C++ for system and application-level embedded software  
+- Linux internals, shell utilities, system configuration  
+- Debugging with GDB, logging frameworks, tracing methodologies  
+- CMake-based modular build systems  
+- SQLite integration in C for embedded storage  
+- Python scripting for automation and tooling  
+- Cross-compilation and toolchain workflows  
+
+### Currently Strengthening
+- Yocto Project (custom layers, recipes, image builds)  
+- RTOS fundamentals and task scheduling  
+- Bare-metal microcontroller programming  
+- Networking fundamentals, routing, nmcli, kernel interfaces  
+- Communication protocols: UART, SPI, I2C, CAN, TCP/IP  
+
+---
+
+# 🔧 Interests & Engineering Direction
+- Linux system programming  
+- IoT and connected embedded devices  
+- Device drivers, kernel interfaces, and low-level interactions  
+- Automation frameworks and developer tooling  
+- Real-time system behavior, concurrency, determinism  
+- Scalable and reliable communication designs  
+
+<!--
+---
+
+## Projects (Growing List)
+
+These repositories will be published and expanded as part of a structured learning and engineering roadmap.
+
+### 1. Embedded Utilities & Tools
+A collection of small, focused modules demonstrating:  
+- Device communication  
+- Logging frameworks  
+- Memory-safe abstractions  
+- CMake-based embedded templates  
+
+### 2. Linux Networking Experiments
+Focused on understanding and controlling network behavior:  
+- nmcli automation  
+- Static/DHCP configuration flows  
+- Network stack behavior analysis  
+- Connectivity testing utilities  
+
+### 3. Automation & Scripting (Python)
+Practical scripts for:  
+- Automated configuration deployment  
+- Version and configuration management  
+- Test harnesses  
+- Log analysis and diagnostic tooling  
+
+### 4. Yocto Components (Work-in-Progress)
+Experiments with:  
+- Custom layers  
+- Recipes  
+- Image creation pipelines  
+- Integration of embedded services  
+
+### 5. Microcontroller & RTOS Experiments
+Hands-on exploration of:  
+- Task scheduling  
+- Interrupt handling  
+- Peripheral drivers  
+- Deterministic system design  
+
+These will be added progressively with detailed documentation, design notes, and engineering rationale.
+-->
+---
+
+# 📬 Connect With Me
+If you share interests in embedded systems, Linux, IoT, or modern device engineering, I welcome discussions and collaboration.
+
+
